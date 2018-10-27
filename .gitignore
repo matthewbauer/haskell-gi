@@ -37,3 +37,5 @@ TAGS
 /**/.vscode/
 *.ui~
 *.gresource
+
+.stack-work/
